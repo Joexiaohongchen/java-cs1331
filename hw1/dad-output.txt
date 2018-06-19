@@ -1,0 +1,15 @@
+Missed letters (5 left): 
+Current guess: ___
+Guess a letter: 
+Missed letters (4 left): c
+Current guess: ___
+Guess a letter: 
+Missed letters (4 left): c
+Current guess: _a_
+Guess a letter: 
+Missed letters (3 left): ct
+Current guess: _a_
+Guess a letter: 
+Missed letters: ct
+Final guess: dad
+Congratulations! You got it!

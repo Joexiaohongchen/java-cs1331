@@ -1,0 +1,24 @@
+Missed letters (5 left): 
+Current guess: ___
+Guess a letter: 
+Missed letters (4 left): q
+Current guess: ___
+Guess a letter: 
+Missed letters (3 left): qw
+Current guess: ___
+Guess a letter: 
+Missed letters (2 left): qwe
+Current guess: ___
+Guess a letter: 
+Missed letters (2 left): qwe
+Current guess: r__
+Guess a letter: 
+Missed letters (2 left): qwe
+Current guess: r_t
+Guess a letter: 
+Missed letters (1 left): qwey
+Current guess: r_t
+Guess a letter: 
+Missed letters: qweyu
+Final guess: r_t
+Sorry, too many misses. The secret word was rat
